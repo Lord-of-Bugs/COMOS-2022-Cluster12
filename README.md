@@ -1,6 +1,7 @@
 # COMOS-2022-Cluster12
 This repository contains all the developmental materials of the lab activities on clustering.
 <hr>
+
 ## Short-Introduction-to-COSMOS-and-Cluster-12
 <p align="center">
   Here is a picture of the awesome staff group.<br>
