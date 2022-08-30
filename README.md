@@ -1,7 +1,7 @@
 # COMOS-2022-Cluster12
 This repository contains all the developmental materials of the lab activities on clustering.
 <hr>
-## Short Introduction to COSMOS and Cluster 12
+## Short-Introduction-to-COSMOS-and-Cluster-12
 <p align="center">
   Here is a picture of the awesome staff group.<br>
   We have from left to right, myself, <a href="https://www.soohyunnamliao.com/">Sooh</a>, <a href="https://www.linkedin.com/in/john-driscoll-/">John</a>, <a href="https://www.linkedin.com/in/wenhua-liang-4922721a4/">Wendy</a>, <a href="https://www.linkedin.com/in/jeannie-kim-504552190/">Jeannie</a>, <a href="https://www.linkedin.com/in/henrytluu/?trk=public_profile_browsemap">Henry</a>, <a href="https://mrsmiranda.com/">Shirley</a>, and <a href="https://jacobsschool.ucsd.edu/people/profile/curt-schurgers">Curt</a>.<br>
